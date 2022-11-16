@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**intelvert/intelvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technology stack:
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)
+![Data structures](https://img.shields.io/badge/-Data_structures-FFF?style=flat&logo=)
+![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=Django)
+![SQLite3](https://img.shields.io/badge/-SQLite_3-000?style=flat&logo=SQLite)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?style=flat&logo=LaTeX)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
+![TelegramBotAPI](https://img.shields.io/badge/-TelegramBotAPI-000?style=flat&logo=appveyor)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=vscode)
+![GIT](https://img.shields.io/badge/-TelegramBotAPI-000?style=flat&logo=appveyor)
+![Bash](https://img.shields.io/badge/-TelegramBotAPI-000?style=flat&logo=bash)
+git
+bash
 
-Here are some ideas to get you started:
+erg
+<!--![Text](https://img.shields.io/badge/-NAME-COLOR?style=flat&logo=appveyor->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Field of interest
